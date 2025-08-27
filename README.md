@@ -12,7 +12,7 @@ SweetTreats is a local bakery based in Cape Town that specializes in homemade ca
 # Sweetreat 
 What is Sweetreat?
 SweetTreats is a local bakery based in Cape Town that specializes in homemade cakes, pastries, and desserts. The business is designed to provide both everyday treats and custom-made cakes for special occasions. Through its website, SweetTreats allows customers to browse the menu, view a gallery of past creations, and even design their own custom cakes. The goal of SweetTreats is to bring sweetness and joy to the community with freshly baked goods and an easy-to-use online ordering experience.
-![Uploading Logo Company.png…]()
+
 
 
 ## Site Map
