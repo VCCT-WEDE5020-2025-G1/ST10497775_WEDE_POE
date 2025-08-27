@@ -74,3 +74,4 @@ We accept cash on delivery,credit cards for online orders.
 7. Can I leave feedback or reviews?
 Yes, customers can leave comments on the Gallery page under product photos or send feedback directly through the Contact page.
 ## Github Repositories
+https://github.com/VCCT-WEDE5020-2025-G1/ST10497775_WEDE_POE/tree/main
