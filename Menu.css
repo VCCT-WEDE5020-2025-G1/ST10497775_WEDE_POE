@@ -1,0 +1,25 @@
+body{
+    background-color: var(--background-color);
+}
+
+.banner{
+    background-color: rgba(247, 255, 250, 0.568);
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+
+p{
+    font-size: var(--font-size);
+    font-family: var(--font-family);
+    color: #000000;
+    
+}
+.good{
+    font-size: xx-large;
+    color: rgb(214, 26, 57);
+    font-style: italic;
+}
