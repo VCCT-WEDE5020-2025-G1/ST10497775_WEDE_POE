@@ -1,0 +1,34 @@
+:root{
+    --background-color: pink;
+    --font-size: 23px;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+body{
+    background-color: var(--background-color);
+    justify-content: center;
+    text-align: center;
+}
+
+p{
+    font-size: var(--font-size);
+    font-family: var(--font-family);
+    color: black;
+}
+
+.banner{
+    background-color: rgba(247, 255, 250, 0.568);
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+
+.good{
+    font-size: xx-large;
+    color: rgb(214, 26, 57);
+    font-style: italic;
+    
+}

@@ -1,5 +1,22 @@
+:root{
+    --background-color: pink;
+    --font-size: 23px;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+
+
 body{
     background-color: var(--background-color);
+    justify-content: center;
+    text-align: center;
+}
+
+p{
+    font-size: var(--font-size);
+    font-family: var(--font-family);
+    color: black;
 }
 
 .banner{
@@ -12,14 +29,40 @@ body{
     
 }
 
-p{
-    font-size: var(--font-size);
-    font-family: var(--font-family);
-    color: #000000;
-    
-}
 .good{
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
+    
+}
+.Menu{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 20px;
+
+
+    
+
+}
+
+.box{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    border:2px solid black;
+    flex-wrap: wrap;
+    
+     transition-property: all;
+    transition-duration: 2s;
+    transform-style: ease;
+    
+}
+
+.box:hover{
+    color: white;
+    background-color: rgb(255, 255, 255);
+    transform: scale(2);
 }
