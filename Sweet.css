@@ -1,0 +1,16 @@
+:root{
+background-color: pink;
+font-size: 1em;
+
+
+
+}
+
+
+
+
+Main{
+    font-size: var(font-size);    
+    justify-content: center;
+    text-align: center;
+}
