@@ -1,0 +1,55 @@
+:root{
+    --background-color: pink;
+    --font-size: 23px;
+    --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+body{
+background-color: var(--background-color);
+text-align: center;
+
+}
+p{
+    font-size: var(--font-size);
+    font-family: var(--font-family);
+    color: #000000;
+    
+}
+.good{
+    font-size: xx-large;
+    color: rgb(214, 26, 57);
+    font-style: italic;
+}
+
+
+.banner{
+    background-color: rgba(247, 255, 250, 0.568);
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+
+
+button{
+    background-color: rgb(214, 26, 57);
+    border: 2px solid black;
+    font-family: var(--font-family);
+    font-size: x-large;
+    border-radius: 5%;
+    transition-property: all;
+    transition-duration: 2s;
+    transform-style: linear;
+
+}
+
+button:hover{
+    color: pink;
+    transform: rotate(360deg)
+    
+}
+
+
+
