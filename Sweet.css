@@ -14,3 +14,23 @@ Main{
     justify-content: center;
     text-align: center;
 }
+
+
+Navigation{
+    flex-direction: row;
+    border: 1em solid black;
+    font-family: var(font-family);
+    border-radius: 25%;
+}
+
+
+
+.SectionOne{
+    display: flex;
+    flex-direction: row;
+    border: 1em solid black;
+    justify-content: space-between;
+    background-color: var(background-color);
+
+
+}
