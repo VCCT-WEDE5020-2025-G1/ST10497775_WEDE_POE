@@ -45,11 +45,6 @@ Interactive feature to design a personal cake
 Options for size, flavor, frosting, decorations, and themes
 Submission form for special orders
 
-Contact Page
-
-Address, phone number, and email for customer inquiries
-Simple contact form for questions or requests
-Google Maps integration (optional) for location
 ## FAQ
 ❓ Frequently Asked Questions (FAQ)
 
@@ -73,5 +68,24 @@ We accept cash on delivery,credit cards for online orders.
 
 7. Can I leave feedback or reviews?
 Yes, customers can leave comments on the Gallery page under product photos or send feedback directly through the Contact page.
+
+## ChangeLog
+WEDE-POE-PART-1
+-Navigation bar 
+-Placeholder
+-Comprehensive Content
+WEDE-POE-PART-1-corrections
+-Added a ChangeLog
+-logo
+-Sematic Tags
+
+WEDE-POE-PART-2
+-Basic responsive layout
+-Transitions
+-Background-Color(css)
+
+
+
+
 ## Github Repositories
 https://github.com/VCCT-WEDE5020-2025-G1/ST10497775_WEDE_POE/tree/main
