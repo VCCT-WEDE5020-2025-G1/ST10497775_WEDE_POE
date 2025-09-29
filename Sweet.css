@@ -21,16 +21,11 @@ p{
     font-style: italic;
 }
 
-
-.banner{
-    background-color: rgba(247, 255, 250, 0.568);
-    display: flex;
-    justify-content: center;
-    gap: 30px;
-    border: 2px solid black;
-    border-radius: 20px;
-    
+img{
+    width: 200px;
+    height: auto;
 }
+
 
 
 button{
@@ -49,6 +44,12 @@ button:hover{
     color: pink;
     transform: rotate(360deg)
     
+}
+
+@media(min-width:320px) and (max-width:425px){
+   body{
+     text-align: center;
+   }
 }
 
 
