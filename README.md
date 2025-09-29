@@ -71,18 +71,20 @@ Yes, customers can leave comments on the Gallery page under product photos or se
 
 ## ChangeLog
 WEDE-POE-PART-1
--Navigation bar 
--Placeholder
--Comprehensive Content
+(-Navigation bar) 
+(-Placeholder)
+(-Comprehensive Content)
+
+
 WEDE-POE-PART-1-corrections
--Added a ChangeLog
--logo
--Sematic Tags
+(-Added a ChangeLog)
+(-logo)
+(-Sematic Tags)
 
 WEDE-POE-PART-2
--Basic responsive layout
--Transitions
--Background-Color(css)
+(-Basic responsive layout)
+(-Transitions)
+(-Background-Color(css))
 
 
 
