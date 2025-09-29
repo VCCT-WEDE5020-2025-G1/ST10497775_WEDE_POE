@@ -96,13 +96,13 @@ I used this YouTube tutorial
 , allowing me to test and adjust my code in real-time. Additionally, I watched this video
  to learn how to style my website for different screen sizes, helping me make my design responsive and adaptable to various devices.
  
-YouTube. (Coding Ninja). How to Create a Navigation Bar. Available at: <https://www.youtube.com/watch?v=-Yw9gBHE60E> [Accessed 29 September 2025].
+YouTube. (Coding Ninja). How to Create a Navigation Bar. Available at: < https://www.youtube.com/watch?v=-Yw9gBHE60E > [Accessed 29 September 2025].
 
 
 CodePen. n.d. CodePen — front-end development environment [Online]. Available at:< https://codepen.io/ >[Accessed 29 September 2025].
 
 
-Master Responsive CSS Media Queries. n.d. Master Responsive CSS Media Queries in easy way [Video]. YouTube [Online]. Available at: <https://www.youtube.com/watch?v=n9yI6fjkrfE> [Accessed 29 September 2025].
+Master Responsive CSS Media Queries. n.d. Master Responsive CSS Media Queries in easy way [Video]. YouTube [Online]. Available at: < https://www.youtube.com/watch?v=n9yI6fjkrfE > [Accessed 29 September 2025].
 
 
 
