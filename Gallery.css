@@ -65,3 +65,62 @@ p{
     
 
 }
+
+
+
+@media(min-width:320px) and (max-width:475px) {
+    .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+
+    section{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+
+    }
+    .Menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    main{
+        text-align: center;
+    }
+    body{
+        justify-content: center;
+
+    }
+
+
+}
+
+
+@media(min-width:426px) and (max-width:768px) {
+      .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+
+    section{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+
+    }
+    .Menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    main{
+        text-align: center;
+    }
+    body{
+        justify-content: center;
+
+    }
+}
