@@ -106,5 +106,17 @@ Master Responsive CSS Media Queries. n.d. Master Responsive CSS Media Queries in
 
 
 
+# Responsive Designs
+## Laptop
+<img width="1349" height="470" alt="Screenshot 2025-09-29 181630" src="https://github.com/user-attachments/assets/6c0521ac-69b6-4803-b3af-259124ca61c1" />
+
+
+## Mobile
+<img width="810" height="629" alt="Screenshot 2025-09-29 181727" src="https://github.com/user-attachments/assets/4171782e-ae13-4db1-8f67-4caebd1528b7" />
+
+## Tablet
+<img width="810" height="607" alt="Screenshot 2025-09-29 181831" src="https://github.com/user-attachments/assets/5690a4c3-51de-46fa-bfbc-4f054e4728f6" />
+
+
 ## Github Repositories
 https://github.com/VCCT-WEDE5020-2025-G1/ST10497775_WEDE_POE/tree/main
