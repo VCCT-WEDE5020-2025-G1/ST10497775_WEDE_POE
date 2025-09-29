@@ -39,3 +39,57 @@ p{
     display: flex;
 
 }
+
+
+@media(min-width:320px) and (max-width:475px) {
+    body{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .banner {
+        border: 50%;
+        flex-direction: column;
+    };
+    section{
+        text-align: center;
+
+    }
+    footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    
+    }
+
+}
+
+@media(min-width:426px) and (max-width:768px) {
+  body{
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .banner {
+        border: 50%;
+        flex-direction: column;
+    };
+    section{
+        text-align: center;
+
+    }
+    footer{
+        flex-direction: column;
+        align-items: center;
+    }
+    img{
+        width: 200px;
+        height: 200px;
+    
+    }
+
+
+}

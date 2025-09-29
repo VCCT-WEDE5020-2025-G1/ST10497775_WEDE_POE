@@ -33,3 +33,47 @@ p{
     font-style: italic;
     
 }
+
+
+
+
+@media(min-width:320px) and (max-width:475px) {
+ .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+    main{
+        text-align: center;
+        justify-content: center;
+    }
+    footer{
+        align-items: center;
+        text-align: center;
+    }
+    iframe{
+    height: auto;
+    width: auto;
+    }
+
+}
+
+@media(min-width:426px) and (max-width:768px) {
+ .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+    main{
+        text-align: center;
+        justify-content: center;
+    }
+    footer{
+        align-items: center;
+        text-align: center;
+    }
+    iframe{
+    height: auto;
+    width: auto;
+    }
+
+
+}

@@ -1,41 +1,42 @@
-:root{
+:root {
     --background-color: pink;
     --font-size: 23px;
     --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
 
 
 
-body{
+body {
     background-color: var(--background-color);
     justify-content: center;
     text-align: center;
 }
 
-p{
+p {
     font-size: var(--font-size);
     font-family: var(--font-family);
     color: black;
 }
 
-.banner{
+.banner {
     background-color: rgba(247, 255, 250, 0.568);
     display: flex;
     justify-content: center;
     gap: 30px;
     border: 2px solid black;
     border-radius: 20px;
-    
+
 }
 
-.good{
+.good {
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
-    
+
 }
-.Menu{
+
+.Menu {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -43,40 +44,96 @@ p{
     gap: 20px;
 
 
-    
+
 
 }
 
-.box{
+.box {
     display: flex;
     text-align: center;
     flex-direction: column;
     justify-content: center;
-    border:2px solid black;
+    border: 2px solid black;
     flex-wrap: wrap;
-    
-     transition-property: all;
+
+    transition-property: all;
     transition-duration: 2s;
     transform-style: ease;
-    
+
 }
 
-.box:hover{
+.box:hover {
     color: white;
     background-color: rgb(255, 255, 255);
     transform: scale(2);
 }
 
-@media(min-width:320px) and (max-width:425px){
-   body{
-     text-align: center;
-   }
-   p{
-    text-align: center;
-   }
+@media(min-width:320px) and (max-width:475px) {
+    main {
+        text-align: center;
+        justify-content: center;
+    }
 
-   .Menu{
-     padding-left: 50px;
-   }
+    footer {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+
+    .Menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box {
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+    }
+
+
+
+}
+
+
+@media(min-width:426px) and (max-width:768px) {
+    main {
+        text-align: center;
+        justify-content: center;
+    }
+
+    footer {
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .banner {
+        border: 50%;
+        flex-direction: column;
+    }
+
+    .Menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .box {
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+        
+    }
+
+
 
 }
