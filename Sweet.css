@@ -1,38 +1,42 @@
-:root{
+:root {
     --background-color: pink;
     --font-size: 23px;
     --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
-}
-body{
-background-color: var(--background-color);
-text-align: center;
 
 }
-p{
+
+body {
+    background-color: var(--background-color);
+    text-align: center;
+
+}
+
+p {
     font-size: var(--font-size);
     font-family: var(--font-family);
     color: #000000;
-    
+
 }
-.good{
+
+.good {
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
 }
 
-img{
+img {
     width: 200px;
     height: auto;
 }
 
 
 
-button{
+button {
     background-color: rgb(214, 26, 57);
     border: 2px solid black;
     font-family: var(--font-family);
     font-size: x-large;
+    text-decoration: none;
     border-radius: 5%;
     transition-property: all;
     transition-duration: 2s;
@@ -40,17 +44,13 @@ button{
 
 }
 
-button:hover{
+button:hover {
     color: pink;
     transform: rotate(360deg)
-    
 }
 
-@media(min-width:320px) and (max-width:425px){
-   body{
-     text-align: center;
-   }
+@media(min-width:320px) and (max-width:425px) {
+    body {
+        text-align: center;
+    }
 }
-
-
-
