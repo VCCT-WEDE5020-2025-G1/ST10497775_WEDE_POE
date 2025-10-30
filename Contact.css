@@ -82,6 +82,15 @@ form {
     font-size: xx-large;
 }
 
-.innput:focus {
-    border: 4px solid orange;
+
+
+
+.innput:focus,
+.message:focus {
+    border-color: orange;
+    outline: none;
+}
+
+.innput:invalid(:placeholder-shown) {
+    border-color: red;
 }
