@@ -53,9 +53,23 @@ p {
         text-align: center;
     }
 
+
     .banner {
         border: 50%;
         flex-direction: column;
+
+        p {
+            display: none;
+        }
+    }
+
+    .banner:hover {
+        p {
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
     }
 
     ;
@@ -85,9 +99,23 @@ p {
         text-align: center;
     }
 
+
     .banner {
         border: 50%;
         flex-direction: column;
+
+        p {
+            display: none;
+        }
+    }
+
+    .banner:hover {
+        p {
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
     }
 
     ;

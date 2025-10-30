@@ -75,9 +75,24 @@ a {
 
 
 @media(min-width:320px) and (max-width:475px) {
+
+
     .banner {
         border: 50%;
         flex-direction: column;
+
+        p {
+            display: none;
+        }
+    }
+
+    .banner:hover {
+        p {
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
     }
 
     section {
@@ -110,6 +125,19 @@ a {
     .banner {
         border: 50%;
         flex-direction: column;
+
+        p {
+            display: none;
+        }
+    }
+
+    .banner:hover {
+        p {
+            display: flex;
+            align-items: center;
+            text-align: center;
+            justify-content: center;
+        }
     }
 
     section {
