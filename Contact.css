@@ -91,6 +91,20 @@ form {
     outline: none;
 }
 
-.innput:invalid(:placeholder-shown) {
+.innput:valid {
+    border-color: green;
+    outline: none;
+}
+
+.message:valid {
+    border-color: green;
+    outline: none;
+}
+
+.innput:user-invalid {
+    border-color: red;
+}
+
+.message:user-invalid {
     border-color: red;
 }
