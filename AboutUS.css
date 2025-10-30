@@ -1,40 +1,45 @@
-:root{
+:root {
     --background-color: pink;
     --font-size: 23px;
     --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
 
-body{
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+body {
     background-color: var(--background-color);
     justify-content: center;
     text-align: center;
 }
 
-p{
+p {
     font-size: var(--font-size);
     font-family: var(--font-family);
     color: black;
 }
 
-.banner{
+.banner {
     background-color: rgba(247, 255, 250, 0.568);
     display: flex;
     justify-content: center;
     gap: 30px;
     border: 2px solid black;
     border-radius: 20px;
-    
+
 }
 
-.good{
+.good {
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
-    
+
 }
 
-.picture{
+.picture {
     flex-direction: row;
     display: flex;
 
@@ -42,53 +47,65 @@ p{
 
 
 @media(min-width:320px) and (max-width:475px) {
-    body{
+    body {
         justify-content: center;
         align-items: center;
         text-align: center;
     }
+
     .banner {
         border: 50%;
         flex-direction: column;
-    };
-    section{
+    }
+
+    ;
+
+    section {
         text-align: center;
 
     }
-    footer{
+
+    footer {
         flex-direction: column;
         align-items: center;
     }
-    img{
+
+    img {
         width: 200px;
         height: 200px;
-    
+
     }
 
 }
 
 @media(min-width:426px) and (max-width:768px) {
-  body{
+    body {
         justify-content: center;
         align-items: center;
         text-align: center;
     }
+
     .banner {
         border: 50%;
         flex-direction: column;
-    };
-    section{
+    }
+
+    ;
+
+    section {
         text-align: center;
 
     }
-    footer{
+
+    footer {
         flex-direction: column;
         align-items: center;
     }
-    img{
+
+    img {
         width: 200px;
         height: 200px;
-    
+
     }
 
 

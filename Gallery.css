@@ -1,60 +1,66 @@
-:root{
+:root {
     --background-color: pink;
     --font-size: 23px;
     --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
-body{
+
+body {
     background-color: var(--background-color);
     justify-content: center;
     text-align: center;
 }
 
-p{
+p {
     font-size: var(--font-size);
     font-family: var(--font-family);
     color: black;
 }
 
-.banner{
+.banner {
     background-color: rgba(247, 255, 250, 0.568);
     display: flex;
     justify-content: center;
     gap: 30px;
     border: 2px solid black;
     border-radius: 20px;
-    
+
 }
 
-.good{
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.good {
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
-    
+
 }
 
-.box{
+.box {
     display: flex;
     text-align: center;
     flex-direction: column;
     justify-content: center;
-    border:2px solid black;
+    border: 2px solid black;
     flex-wrap: wrap;
-    
-     transition-property: all;
+
+    transition-property: all;
     transition-duration: 2s;
     transform-style: ease;
-    
+
 }
 
-.box:hover{
+.box:hover {
     color: white;
     background-color: rgb(255, 255, 255);
     transform: scale(2);
 }
 
 
-.Menu{
+.Menu {
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
@@ -62,7 +68,7 @@ p{
     gap: 20px;
 
 
-    
+
 
 }
 
@@ -74,22 +80,24 @@ p{
         flex-direction: column;
     }
 
-    section{
+    section {
         flex-direction: column;
         display: flex;
         align-items: center;
 
     }
+
     .Menu {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
 
-    main{
+    main {
         text-align: center;
     }
-    body{
+
+    body {
         justify-content: center;
 
     }
@@ -99,27 +107,29 @@ p{
 
 
 @media(min-width:426px) and (max-width:768px) {
-      .banner {
+    .banner {
         border: 50%;
         flex-direction: column;
     }
 
-    section{
+    section {
         flex-direction: column;
         display: flex;
         align-items: center;
 
     }
+
     .Menu {
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
 
-    main{
+    main {
         text-align: center;
     }
-    body{
+
+    body {
         justify-content: center;
 
     }

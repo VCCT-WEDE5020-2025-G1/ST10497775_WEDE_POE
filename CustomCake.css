@@ -1,78 +1,89 @@
-:root{
+:root {
     --background-color: pink;
     --font-size: 23px;
     --font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
+
 }
 
-body{
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+body {
     background-color: var(--background-color);
     justify-content: center;
     text-align: center;
 }
 
-p{
+p {
     font-size: var(--font-size);
     font-family: var(--font-family);
     color: black;
 }
 
-.banner{
+.banner {
     background-color: rgba(247, 255, 250, 0.568);
     display: flex;
     justify-content: center;
     gap: 30px;
     border: 2px solid black;
     border-radius: 20px;
-    
+
 }
 
-.good{
+.good {
     font-size: xx-large;
     color: rgb(214, 26, 57);
     font-style: italic;
-    
+
 }
 
 
 
 
 @media(min-width:320px) and (max-width:475px) {
- .banner {
+    .banner {
         border: 50%;
         flex-direction: column;
     }
-    main{
+
+    main {
         text-align: center;
         justify-content: center;
     }
-    footer{
+
+    footer {
         align-items: center;
         text-align: center;
     }
-    iframe{
-    height: auto;
-    width: auto;
+
+    iframe {
+        height: auto;
+        width: auto;
     }
 
 }
 
 @media(min-width:426px) and (max-width:768px) {
- .banner {
+    .banner {
         border: 50%;
         flex-direction: column;
     }
-    main{
+
+    main {
         text-align: center;
         justify-content: center;
     }
-    footer{
+
+    footer {
         align-items: center;
         text-align: center;
     }
-    iframe{
-    height: auto;
-    width: auto;
+
+    iframe {
+        height: auto;
+        width: auto;
     }
 
 
