@@ -58,5 +58,26 @@ button:hover {
 @media(min-width:320px) and (max-width:425px) {
     body {
         text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    iframe {
+        width: 300px;
+        height: 420px;
+    }
+}
+
+@media(min-width:425px) and (max-width:768px) {
+
+    body {
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    iframe {
+        width: 400px;
+        height: 520px;
     }
 }
