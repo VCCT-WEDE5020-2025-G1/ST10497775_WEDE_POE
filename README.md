@@ -120,10 +120,13 @@ Master Responsive CSS Media Queries. n.d. Master Responsive CSS Media Queries in
 
 
 ## Mobile
-<img width="810" height="629" alt="Screenshot 2025-09-29 181727" src="https://github.com/user-attachments/assets/4171782e-ae13-4db1-8f67-4caebd1528b7" />
+<img width="240" height="515" alt="image" src="https://github.com/user-attachments/assets/e8df0137-a3e2-419c-a32e-bf73aa096095" />
+
 
 ## Tablet
-<img width="810" height="607" alt="Screenshot 2025-09-29 181831" src="https://github.com/user-attachments/assets/5690a4c3-51de-46fa-bfbc-4f054e4728f6" />
+
+<img width="549" height="540" alt="image" src="https://github.com/user-attachments/assets/ec41ba10-72f0-413a-a4c6-56b3f994827b" />
+
 
 
 ## Github Repositories
