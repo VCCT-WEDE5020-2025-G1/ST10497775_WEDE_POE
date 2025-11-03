@@ -75,7 +75,6 @@ WEDE-POE-PART-1
 (-Placeholder)
 (-Comprehensive Content)
 
-
 WEDE-POE-PART-1-corrections
 (-Added a ChangeLog)
 (-logo)
@@ -86,9 +85,17 @@ WEDE-POE-PART-2
 (-Transitions)
 (-Background-Color(css))
 
+WEDE-POE-PART-3
+(interactive map)
+(Meta Tags)
+(javascript)
+
+## Correction from WEDE-POE-PART-2-Feedback
+
+Navigation Modified Size for All Screens
 
 
-
+Fix Images Files Path 
 
 ## References
 I used this YouTube tutorial
