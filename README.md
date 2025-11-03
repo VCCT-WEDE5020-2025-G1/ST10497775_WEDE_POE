@@ -92,7 +92,7 @@ WEDE-POE-PART-3
 
 ## Correction from WEDE-POE-PART-2-Feedback
 
-Navigation Modified Size for All Screens
+Navigation bar  Modified Size for All Screens
 
 
 Fix Images Files Path 
