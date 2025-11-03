@@ -115,7 +115,8 @@ Master Responsive CSS Media Queries. n.d. Master Responsive CSS Media Queries in
 
 # Responsive Designs
 ## Laptop
-<img width="1349" height="470" alt="Screenshot 2025-09-29 181630" src="https://github.com/user-attachments/assets/6c0521ac-69b6-4803-b3af-259124ca61c1" />
+<img width="1349" height="535" alt="image" src="https://github.com/user-attachments/assets/db0726da-2eb8-4cd1-b80b-11bff4eb8f5d" />
+
 
 
 ## Mobile
