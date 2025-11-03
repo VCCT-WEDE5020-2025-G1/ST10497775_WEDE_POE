@@ -146,6 +146,7 @@ a {
     main {
         text-align: center;
         justify-content: center;
+        align-items: center;
     }
 
     footer {
@@ -187,6 +188,9 @@ a {
     }
 
     .Promo {
+        justify-content: center;
+        text-align: center;
+        align-items: center;
         font-size: small;
         width: fit-content;
         height: 200px;
