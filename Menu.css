@@ -50,6 +50,20 @@ p {
 
 }
 
+.Promo {
+    background-color: rgb(214, 26, 57);
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    color: white;
+    border-radius: 5px;
+}
+
+.Promo p {
+    margin: 0;
+    font-weight: bold;
+}
+
 .box {
     display: flex;
     text-align: center;
@@ -117,6 +131,12 @@ a {
         align-items: center;
     }
 
+    .Promo {
+        font-size: small;
+        width: fit-content;
+        height: 200px;
+    }
+
 
 
 }
@@ -164,6 +184,12 @@ a {
         text-align: center;
         align-items: center;
 
+    }
+
+    .Promo {
+        font-size: small;
+        width: fit-content;
+        height: 200px;
     }
 
 
